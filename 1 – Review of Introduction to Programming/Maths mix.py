@@ -1,0 +1,6 @@
+one = int(input('Number 1: '))
+two = int(input('Number 2: '))
+addition = int(one+two)
+multiplication = int(one*two)
+print(str(one) + ' plus ' + str(two) + ' is ' + str(addition))
+print(str(one) + ' times ' + str(two) + ' is ' + str(multiplication))
